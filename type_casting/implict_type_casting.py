@@ -1,0 +1,6 @@
+x = 10 
+y = 2.5
+
+z = x + y
+print(z)
+print(type(z))
